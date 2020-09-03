@@ -1,0 +1,6 @@
+vendor/
+storage/
+bootstrap/cache/*
+!bootstrap/cache/.gitkeep
+.phpunit.result.cache
+.idea/
